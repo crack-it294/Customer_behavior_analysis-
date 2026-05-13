@@ -20,7 +20,7 @@ This project analyzes customer shopping behavior using SQL, Python, and Power BI
 - Revenue is evenly distributed across seasons
 
 ## 📷 Dashboard Preview
-![Dashboard](images/dashboard.png)
+"C:\Users\SAKSHAM\Pictures\Screenshots\Screenshot 2026-04-10 223410.png"
 
 ## 📂 Files Included
 - Power BI Dashboard (.pbix)
